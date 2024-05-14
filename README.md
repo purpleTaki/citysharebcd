@@ -1,4 +1,4 @@
-#Welcome to the repository of City Share Bacolod, a product of the ITP211 Mobile Application Development course. 
+# Welcome to the repository of City Share Bacolod, a product of the ITP211 Mobile Application Development course. 
 This repository houses the APK for our revolutionary application, an innovative platform dedicated to the promotion of a free and communal exchange of goods within the vibrant city of Bacolod.
 City Share Bacolod is a mobile application conceived in the spirit of Carousel, but with a distinct and unique approach. Unlike conventional buy-and-sell applications, City Share Bacolod focuses solely on the exchange of free items and promotes a culture of trade and barter.
 
